@@ -1,2 +1,7 @@
 This is help file.
+<<<<<<< HEAD
 Second local commit. Edited
+=======
+Second local commit
+commit to 5.1 change
+>>>>>>> origin/master
